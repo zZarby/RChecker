@@ -13,8 +13,8 @@
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/zZarby/RChecker/.git](https://github.com/zZarby/RChecker/.git)
-cd rchecker-pro
+git clone https://github.com/zZarby/RChecker.git
+cd RChecker
 ```
 
 2. Install dependencies:
